@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/egatekelindo/!svn/ver/194/protected/models/custom
+END
+RequirementAssuranceHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/egatekelindo/!svn/ver/178/protected/models/custom/RequirementAssuranceHeader.php
+END
+PurchasingType.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/egatekelindo/!svn/ver/190/protected/models/custom/PurchasingType.php
+END
+PackingListDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/37/protected/models/custom/PackingListDetail.php
+END
+ComponentCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/egatekelindo/!svn/ver/179/protected/models/custom/ComponentCategory.php
+END
+EstimationBrandDiscount.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/egatekelindo/!svn/ver/74/protected/models/custom/EstimationBrandDiscount.php
+END
+SubconRequestDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/egatekelindo/!svn/ver/19/protected/models/custom/SubconRequestDetail.php
+END
+Customer.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/egatekelindo/!svn/ver/66/protected/models/custom/Customer.php
+END
+RequirementAssuranceDetailComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/egatekelindo/!svn/ver/178/protected/models/custom/RequirementAssuranceDetailComponent.php
+END
+PartListDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/egatekelindo/!svn/ver/34/protected/models/custom/PartListDetail.php
+END
+JournalVoucherHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/egatekelindo/!svn/ver/77/protected/models/custom/JournalVoucherHeader.php
+END
+DeliveryDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/egatekelindo/!svn/ver/14/protected/models/custom/DeliveryDetail.php
+END
+RequirementDetailComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/egatekelindo/!svn/ver/178/protected/models/custom/RequirementDetailComponent.php
+END
+RequirementAssuranceDetailPanel.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/egatekelindo/!svn/ver/169/protected/models/custom/RequirementAssuranceDetailPanel.php
+END
+ComponentBrandDiscount.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/egatekelindo/!svn/ver/53/protected/models/custom/ComponentBrandDiscount.php
+END
+BudgetingBrandDiscount.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/egatekelindo/!svn/ver/169/protected/models/custom/BudgetingBrandDiscount.php
+END
+JournalAccounting.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/77/protected/models/custom/JournalAccounting.php
+END
+SalePaymentHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/26/protected/models/custom/SalePaymentHeader.php
+END
+EstimationComponentGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/egatekelindo/!svn/ver/83/protected/models/custom/EstimationComponentGroup.php
+END
+Account.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/egatekelindo/!svn/ver/77/protected/models/custom/Account.php
+END
+BudgetingDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/egatekelindo/!svn/ver/153/protected/models/custom/BudgetingDetail.php
+END
+PurchaseHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/egatekelindo/!svn/ver/197/protected/models/custom/PurchaseHeader.php
+END
+BudgetingCurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/97/protected/models/custom/BudgetingCurrency.php
+END
+RequirementHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/egatekelindo/!svn/ver/198/protected/models/custom/RequirementHeader.php
+END
+PurchaseDetailRequirement.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/egatekelindo/!svn/ver/198/protected/models/custom/PurchaseDetailRequirement.php
+END
+EstimationComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/egatekelindo/!svn/ver/178/protected/models/custom/EstimationComponent.php
+END
+SaleOrderHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/egatekelindo/!svn/ver/197/protected/models/custom/SaleOrderHeader.php
+END
+PurchaseRequestDetailService.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/egatekelindo/!svn/ver/189/protected/models/custom/PurchaseRequestDetailService.php
+END
+EstimationCurrencyHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/egatekelindo/!svn/ver/84/protected/models/custom/EstimationCurrencyHistory.php
+END
+EstimationHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/178/protected/models/custom/EstimationHeader.php
+END
+EstimationPanel.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/egatekelindo/!svn/ver/178/protected/models/custom/EstimationPanel.php
+END
+AccesoriesAmpere.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/egatekelindo/!svn/ver/49/protected/models/custom/AccesoriesAmpere.php
+END
+MaterialCheckoutHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/egatekelindo/!svn/ver/17/protected/models/custom/MaterialCheckoutHeader.php
+END
+RequirementDetailAdditional.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/egatekelindo/!svn/ver/166/protected/models/custom/RequirementDetailAdditional.php
+END
+Job.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/egatekelindo/!svn/ver/189/protected/models/custom/Job.php
+END
+PurchaseRequestDetailComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/egatekelindo/!svn/ver/189/protected/models/custom/PurchaseRequestDetailComponent.php
+END
+ComponentGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/egatekelindo/!svn/ver/141/protected/models/custom/ComponentGroup.php
+END
+EstimationComponentHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/egatekelindo/!svn/ver/84/protected/models/custom/EstimationComponentHistory.php
+END
+ProductionRequestHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/egatekelindo/!svn/ver/29/protected/models/custom/ProductionRequestHeader.php
+END
+Warehouse.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/egatekelindo/!svn/ver/198/protected/models/custom/Warehouse.php
+END
+Unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/egatekelindo/!svn/ver/14/protected/models/custom/Unit.php
+END
+Accesories.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/egatekelindo/!svn/ver/1/protected/models/custom/Accesories.php
+END
+WorkOrderProductionDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/egatekelindo/!svn/ver/103/protected/models/custom/WorkOrderProductionDetail.php
+END
+SaleReturnDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/egatekelindo/!svn/ver/24/protected/models/custom/SaleReturnDetail.php
+END
+ExpenseDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/egatekelindo/!svn/ver/77/protected/models/custom/ExpenseDetail.php
+END
+ComponentBrand.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/egatekelindo/!svn/ver/49/protected/models/custom/ComponentBrand.php
+END
+AccountCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/egatekelindo/!svn/ver/77/protected/models/custom/AccountCategory.php
+END
+DepositHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/egatekelindo/!svn/ver/95/protected/models/custom/DepositHeader.php
+END
+WorkOrderDrawingHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/egatekelindo/!svn/ver/188/protected/models/custom/WorkOrderDrawingHeader.php
+END
+ComponentCu.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/egatekelindo/!svn/ver/52/protected/models/custom/ComponentCu.php
+END
+Admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/egatekelindo/!svn/ver/159/protected/models/custom/Admin.php
+END
+ReceiveHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/egatekelindo/!svn/ver/197/protected/models/custom/ReceiveHeader.php
+END
+EstimationHeaderRevise.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/egatekelindo/!svn/ver/74/protected/models/custom/EstimationHeaderRevise.php
+END
+Currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/egatekelindo/!svn/ver/1/protected/models/custom/Currency.php
+END
+BudgetingDetailAccesories.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/egatekelindo/!svn/ver/128/protected/models/custom/BudgetingDetailAccesories.php
+END
+Ampere.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/egatekelindo/!svn/ver/1/protected/models/custom/Ampere.php
+END
+PackingListHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/34/protected/models/custom/PackingListHeader.php
+END
+SaleInvoiceDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/23/protected/models/custom/SaleInvoiceDetail.php
+END
+EstimationComponentAccesories.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/egatekelindo/!svn/ver/123/protected/models/custom/EstimationComponentAccesories.php
+END
+ComponentType.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/egatekelindo/!svn/ver/52/protected/models/custom/ComponentType.php
+END
+SubconRequestHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/egatekelindo/!svn/ver/19/protected/models/custom/SubconRequestHeader.php
+END
+EstimationPanelHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/egatekelindo/!svn/ver/84/protected/models/custom/EstimationPanelHistory.php
+END
+WorkOrderDrawingRevision.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/egatekelindo/!svn/ver/159/protected/models/custom/WorkOrderDrawingRevision.php
+END
+PartListHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/egatekelindo/!svn/ver/37/protected/models/custom/PartListHeader.php
+END
+RequirementAssuranceBrandDiscount.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/egatekelindo/!svn/ver/169/protected/models/custom/RequirementAssuranceBrandDiscount.php
+END
+DeliveryHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/egatekelindo/!svn/ver/30/protected/models/custom/DeliveryHeader.php
+END
+AccesoriesCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/1/protected/models/custom/AccesoriesCategory.php
+END
+EstimationComponentGroupHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/egatekelindo/!svn/ver/84/protected/models/custom/EstimationComponentGroupHistory.php
+END
+Material.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/egatekelindo/!svn/ver/1/protected/models/custom/Material.php
+END
+JournalVoucherDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/egatekelindo/!svn/ver/77/protected/models/custom/JournalVoucherDetail.php
+END
+BudgetingHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/egatekelindo/!svn/ver/182/protected/models/custom/BudgetingHeader.php
+END
+Employee.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/egatekelindo/!svn/ver/106/protected/models/custom/Employee.php
+END
+SalePaymentDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/25/protected/models/custom/SalePaymentDetail.php
+END
+WorkOrderDrawingProposal.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/egatekelindo/!svn/ver/159/protected/models/custom/WorkOrderDrawingProposal.php
+END
+RequirementDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/egatekelindo/!svn/ver/105/protected/models/custom/RequirementDetail.php
+END
+AccesoriesPhase.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/egatekelindo/!svn/ver/95/protected/models/custom/AccesoriesPhase.php
+END
+EstimationBrandDiscountHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/egatekelindo/!svn/ver/84/protected/models/custom/EstimationBrandDiscountHistory.php
+END
+SaleOrderDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/egatekelindo/!svn/ver/143/protected/models/custom/SaleOrderDetail.php
+END
+PurchaseRequestHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/egatekelindo/!svn/ver/198/protected/models/custom/PurchaseRequestHeader.php
+END
+EstimationCurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/egatekelindo/!svn/ver/55/protected/models/custom/EstimationCurrency.php
+END
+EstimationHeaderHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/egatekelindo/!svn/ver/84/protected/models/custom/EstimationHeaderHistory.php
+END
+Component.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/egatekelindo/!svn/ver/179/protected/models/custom/Component.php
+END
+PurchaseDetailRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/egatekelindo/!svn/ver/198/protected/models/custom/PurchaseDetailRequest.php
+END
+EstimationComponentAccesoriesHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/egatekelindo/!svn/ver/84/protected/models/custom/EstimationComponentAccesoriesHistory.php
+END
+MaterialCheckoutDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/egatekelindo/!svn/ver/17/protected/models/custom/MaterialCheckoutDetail.php
+END
+WorkOrderProductionHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/egatekelindo/!svn/ver/153/protected/models/custom/WorkOrderProductionHeader.php
+END
+SaleReturnHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/egatekelindo/!svn/ver/24/protected/models/custom/SaleReturnHeader.php
+END
+ExpenseHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/egatekelindo/!svn/ver/77/protected/models/custom/ExpenseHeader.php
+END
+ProductionRequestDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/egatekelindo/!svn/ver/16/protected/models/custom/ProductionRequestDetail.php
+END
+Brand.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/egatekelindo/!svn/ver/1/protected/models/custom/Brand.php
+END
+BudgetingFee.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/egatekelindo/!svn/ver/186/protected/models/custom/BudgetingFee.php
+END
+Supplier.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/egatekelindo/!svn/ver/14/protected/models/custom/Supplier.php
+END
+DepositDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/egatekelindo/!svn/ver/77/protected/models/custom/DepositDetail.php
+END
+Department.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/egatekelindo/!svn/ver/189/protected/models/custom/Department.php
+END
+WorkOrderDrawingDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/egatekelindo/!svn/ver/106/protected/models/custom/WorkOrderDrawingDetail.php
+END
+SaleInvoiceHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/25/protected/models/custom/SaleInvoiceHeader.php
+END
+ReceiveDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/egatekelindo/!svn/ver/15/protected/models/custom/ReceiveDetail.php
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel
+END
+ReferenceHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/ReferenceHelper.php
+END
+DocumentSecurity.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/DocumentSecurity.php
+END
+WorksheetIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/WorksheetIterator.php
+END
+Chart.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Chart.php
+END
+Comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Comment.php
+END
+HashTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/HashTable.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Autoloader.php
+END
+Cell.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Cell.php
+END
+Settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Settings.php
+END
+IComparable.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/IComparable.php
+END
+IOFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/IOFactory.php
+END
+NamedRange.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/NamedRange.php
+END
+RichText.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/RichText.php
+END
+Calculation.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Calculation.php
+END
+DocumentProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/DocumentProperties.php
+END
+Worksheet.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Worksheet.php
+END
+CachedObjectStorageFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/CachedObjectStorageFactory.php
+END
+Style.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Style.php
+END

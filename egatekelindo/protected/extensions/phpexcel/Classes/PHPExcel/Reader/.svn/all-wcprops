@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader
+END
+Gnumeric.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/Gnumeric.php
+END
+CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/CSV.php
+END
+IReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/IReadFilter.php
+END
+Excel2007.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/Excel2007.php
+END
+IReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/IReader.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/Excel5.php
+END
+DefaultReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/DefaultReadFilter.php
+END
+Excel2003XML.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/Excel2003XML.php
+END
+OOCalc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/OOCalc.php
+END
+SYLK.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Reader/SYLK.php
+END

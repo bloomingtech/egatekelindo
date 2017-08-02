@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/egatekelindo/!svn/ver/77/protected/modules/report/components
+END
+SalePaymentSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/egatekelindo/!svn/ver/44/protected/modules/report/components/SalePaymentSummary.php
+END
+PurchaseRequestSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/egatekelindo/!svn/ver/44/protected/modules/report/components/PurchaseRequestSummary.php
+END
+SubconRequestSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/egatekelindo/!svn/ver/44/protected/modules/report/components/SubconRequestSummary.php
+END
+MaterialCheckoutSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/egatekelindo/!svn/ver/44/protected/modules/report/components/MaterialCheckoutSummary.php
+END
+SaleOrderSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/egatekelindo/!svn/ver/44/protected/modules/report/components/SaleOrderSummary.php
+END
+ProfitLossSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/egatekelindo/!svn/ver/77/protected/modules/report/components/ProfitLossSummary.php
+END
+SaleReturnSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/egatekelindo/!svn/ver/44/protected/modules/report/components/SaleReturnSummary.php
+END
+PackingListSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/egatekelindo/!svn/ver/44/protected/modules/report/components/PackingListSummary.php
+END
+SaleInvoiceSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/egatekelindo/!svn/ver/44/protected/modules/report/components/SaleInvoiceSummary.php
+END
+BankBookSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/egatekelindo/!svn/ver/77/protected/modules/report/components/BankBookSummary.php
+END
+DeliverySummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/egatekelindo/!svn/ver/44/protected/modules/report/components/DeliverySummary.php
+END
+ReceiveSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/egatekelindo/!svn/ver/44/protected/modules/report/components/ReceiveSummary.php
+END
+GeneralLedgerSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/egatekelindo/!svn/ver/77/protected/modules/report/components/GeneralLedgerSummary.php
+END
+PartListSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/egatekelindo/!svn/ver/44/protected/modules/report/components/PartListSummary.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/egatekelindo/!svn/ver/1/protected/tests
+END
+WebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/egatekelindo/!svn/ver/1/protected/tests/WebTestCase.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/egatekelindo/!svn/ver/1/protected/tests/phpunit.xml
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/egatekelindo/!svn/ver/1/protected/tests/bootstrap.php
+END

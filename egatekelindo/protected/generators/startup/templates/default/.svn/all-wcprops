@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/egatekelindo/!svn/ver/1/protected/generators/startup/templates/default
+END
+activerecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/egatekelindo/!svn/ver/1/protected/generators/startup/templates/default/activerecord.php
+END
+useridentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/egatekelindo/!svn/ver/1/protected/generators/startup/templates/default/useridentity.php
+END
+crudcontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/egatekelindo/!svn/ver/1/protected/generators/startup/templates/default/crudcontroller.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/egatekelindo/!svn/ver/1/protected/generators/startup/templates/default/controller.php
+END

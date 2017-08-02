@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/egatekelindo/!svn/ver/159/protected/components
+END
+ActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/egatekelindo/!svn/ver/1/protected/components/ActiveRecord.php
+END
+MonthlyTransactionActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/egatekelindo/!svn/ver/1/protected/components/MonthlyTransactionActiveRecord.php
+END
+Search.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/egatekelindo/!svn/ver/1/protected/components/Search.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/egatekelindo/!svn/ver/159/protected/components/UserIdentity.php
+END
+CrudController.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/egatekelindo/!svn/ver/1/protected/components/CrudController.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/egatekelindo/!svn/ver/1/protected/components/Controller.php
+END
+SqlViewGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/egatekelindo/!svn/ver/77/protected/components/SqlViewGenerator.php
+END
+AccountingJournalHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/egatekelindo/!svn/ver/77/protected/components/AccountingJournalHelper.php
+END
+ReportHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/egatekelindo/!svn/ver/1/protected/components/ReportHelper.php
+END
+NumberWord.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/egatekelindo/!svn/ver/26/protected/components/NumberWord.php
+END
+SqlGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/egatekelindo/!svn/ver/77/protected/components/SqlGenerator.php
+END

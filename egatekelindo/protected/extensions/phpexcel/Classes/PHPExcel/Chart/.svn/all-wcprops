@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Chart
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Chart/Title.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Chart/Layout.php
+END
+Legend.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Chart/Legend.php
+END
+PlotArea.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Chart/PlotArea.php
+END
+DataSeries.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Chart/DataSeries.php
+END
+DataSeriesValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/egatekelindo/!svn/ver/86/protected/extensions/phpexcel/Classes/PHPExcel/Chart/DataSeriesValues.php
+END

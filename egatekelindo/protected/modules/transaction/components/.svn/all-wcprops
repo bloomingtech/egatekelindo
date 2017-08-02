@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/egatekelindo/!svn/ver/194/protected/modules/transaction/components
+END
+SaleOrderComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/egatekelindo/!svn/ver/159/protected/modules/transaction/components/SaleOrderComponent.php
+END
+WorkOrderProduction.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/egatekelindo/!svn/ver/186/protected/modules/transaction/components/WorkOrderProduction.php
+END
+JournalVoucher.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/egatekelindo/!svn/ver/92/protected/modules/transaction/components/JournalVoucher.php
+END
+PurchaseByRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/egatekelindo/!svn/ver/198/protected/modules/transaction/components/PurchaseByRequest.php
+END
+SaleInvoiceComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/egatekelindo/!svn/ver/146/protected/modules/transaction/components/SaleInvoiceComponent.php
+END
+Expense.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/egatekelindo/!svn/ver/92/protected/modules/transaction/components/Expense.php
+END
+Deposit.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/egatekelindo/!svn/ver/92/protected/modules/transaction/components/Deposit.php
+END
+SalePayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/egatekelindo/!svn/ver/43/protected/modules/transaction/components/SalePayment.php
+END
+WorkOrderDrawing.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/egatekelindo/!svn/ver/159/protected/modules/transaction/components/WorkOrderDrawing.php
+END
+WorkOrderDrawingRevisionComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/egatekelindo/!svn/ver/159/protected/modules/transaction/components/WorkOrderDrawingRevisionComponent.php
+END
+Requirement.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/egatekelindo/!svn/ver/193/protected/modules/transaction/components/Requirement.php
+END
+RequirementAssurancePanelComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/egatekelindo/!svn/ver/175/protected/modules/transaction/components/RequirementAssurancePanelComponent.php
+END
+Receive.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/egatekelindo/!svn/ver/198/protected/modules/transaction/components/Receive.php
+END
+Panel.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/egatekelindo/!svn/ver/85/protected/modules/transaction/components/Panel.php
+END
+Budget.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/egatekelindo/!svn/ver/176/protected/modules/transaction/components/Budget.php
+END
+SaleReturnComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/egatekelindo/!svn/ver/43/protected/modules/transaction/components/SaleReturnComponent.php
+END
+PackingList.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/egatekelindo/!svn/ver/92/protected/modules/transaction/components/PackingList.php
+END
+WorkOrderDrawingProposalComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/egatekelindo/!svn/ver/159/protected/modules/transaction/components/WorkOrderDrawingProposalComponent.php
+END
+RequirementAssurance.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/egatekelindo/!svn/ver/178/protected/modules/transaction/components/RequirementAssurance.php
+END
+Estimation.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/egatekelindo/!svn/ver/123/protected/modules/transaction/components/Estimation.php
+END
+PurchaseByRequirement.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/egatekelindo/!svn/ver/199/protected/modules/transaction/components/PurchaseByRequirement.php
+END
+SubconRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/egatekelindo/!svn/ver/43/protected/modules/transaction/components/SubconRequest.php
+END
+MaterialCheckout.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/egatekelindo/!svn/ver/92/protected/modules/transaction/components/MaterialCheckout.php
+END
+RequirementDetailPanelComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/egatekelindo/!svn/ver/184/protected/modules/transaction/components/RequirementDetailPanelComponent.php
+END
+PurchaseRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/egatekelindo/!svn/ver/189/protected/modules/transaction/components/PurchaseRequest.php
+END
+BudgetingDetailComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/egatekelindo/!svn/ver/176/protected/modules/transaction/components/BudgetingDetailComponent.php
+END
+EstimationComponentGroupComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/egatekelindo/!svn/ver/85/protected/modules/transaction/components/EstimationComponentGroupComponent.php
+END
+PartList.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/egatekelindo/!svn/ver/43/protected/modules/transaction/components/PartList.php
+END
+Delivery.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/egatekelindo/!svn/ver/92/protected/modules/transaction/components/Delivery.php
+END
